@@ -12,3 +12,9 @@ Topics Covered:
 8. Control Channel Signal Chain Design
 
 Hands-on MATLAB exercises reinforced each concept, bridging the gap between standard specifications and real-world implementation.
+
+📚 About
+These notes were prepared as part of the eMasters in Next Generation Wireless Technologies program offered by IIT Kanpur. The content bridges theoretical knowledge with practical relevance in wireless communications and signal processing.
+
+📌 Disclaimer
+These notes are intended for personal and academic reference. For detailed theoretical understanding, it is recommended to consult standard textbooks and academic papers.
